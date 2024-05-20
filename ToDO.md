@@ -8,3 +8,5 @@ This is a list for the class on the 20th of May
 + Add a summary & description
 + Push it onto GitHub
 + Inspect it on GitHub
++ Make sure it all works
++ Click on commit changes 
